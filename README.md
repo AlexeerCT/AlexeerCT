@@ -61,10 +61,10 @@
 <table>
   <tr>
     <td>
-       <img src="https://github-readme-stats.vercel.app/api?username=alexeerct&show_icons=true&locale=en&theme=radical" alt="Stats"/> 
+       <img src="https://github-readme-stats-rosy-seven-62.vercel.app/api?username=alexeerct&show_icons=true&locale=en&theme=radical" alt="Stats"/> 
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexeerct&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Langs"/>      
+      <img src="https://github-readme-stats-rosy-seven-62.vercel.app/api/top-langs?username=alexeerct&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Langs"/>      
     </td>
   </tr>
 </table>
