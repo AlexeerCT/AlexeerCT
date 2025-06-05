@@ -33,10 +33,10 @@
 <table>
   <tr>
     <td>
-       <img src="https://github-readme-stats-rosy-seven-62.vercel.app/api?username=alexeerct&show_icons=true&locale=en&theme=tokyonight&show=prs_merged_percentage" alt="Stats"/> 
+       <img src="https://github-readme-stats-rosy-seven-62.vercel.app/api?username=alexeerct&show_icons=true&locale=en&theme=midnight-purple&show=prs_merged_percentage" alt="Stats"/> 
     </td>
     <td>
-      <img src="https://github-readme-stats-rosy-seven-62.vercel.app/api/top-langs?username=alexeerct&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Langs"/>      
+      <img src="https://github-readme-stats-rosy-seven-62.vercel.app/api/top-langs?username=alexeerct&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="Top Langs"/>      
     </td>
   </tr>
 </table>
